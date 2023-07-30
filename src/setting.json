@@ -1,0 +1,14 @@
+{
+    "environments":{
+        "prod":{
+            "api":{
+                "uri":"http://time.jsontest.com/"
+            }
+        },
+        "dev":{
+            "api":{
+                "uri":"http://time.jsontest.com/"
+            }
+        }
+    }
+}
